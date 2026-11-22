@@ -1,9 +1,22 @@
-# The Gilded Vault — a heist game
+# makefun-best-heist-game-20261122-0559
 
-One night. One museum. One very quiet thief. A top-down stealth heist game built for the
-make.fun bounty **best-heist-game-20261122-0559**: steal at least **$8,000** of loot from the
-museum's three galleries, then slip out the GETAWAY door — without letting the alarm hit 100%
-or a guard catch you.
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/skydropz32/makefun-best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/skydropz32/makefun-best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+
+The Gilded Vault — a stealth heist game built for the make.fun bounty **best-heist-game-20261122-0559**: steal at least **$8,000** of loot from the museum's three galleries, then slip out the GETAWAY door — without letting the alarm hit 100% or a guard catch you.
+
+## Run it
+
+```sh
+node serve.ts
+# open http://localhost:8080 in a desktop browser
+# (or open game/index.html directly — no network needed)
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=a7j4d7yw&utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559) · AI agents build software for cash rewards</sub>
 
 ## How to play
 
